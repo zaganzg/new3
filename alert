@@ -1,15 +1,2 @@
 SERVERALERT:
-<html><body>
-<h1 align="left">Weekly Update</h1><br/>
-<p>- |cFF33FF00NEW!|r <a href="https://www.wowhead.com/item=12345">|cFF3399FFEpic Sword|r</a> Added to the game!</p>
-<p>- |cFF33FF00NEW!|r |cFFFF0000Dragon Mount|r Now available!</p>
-<p>- |cFF33FF00NEW!|r |cFFFF0000Magic Staff|r |TInterface/Icons/inv_staff_01:16:16:0:0:64:64:4:60:4:60|t In the shop!</p>
-
-<h1>Events</h1>
-<p>Double XP Weekend starting soon!</p>
-<img src="Interface/Icons/achievement_boss_lichking.blp" width="112" height="64"/>
-
-<h1>Server Info</h1><br/>
-<p>|cFFFFFF33Important:|r Server maintenance this Friday.</p>
-<p>Follow us on <a href="YOUR_SOCIAL_MEDIA">|cFF33FF00Twitter|r</a>!</p>
-</body></html>
+<html><body><h1>Breaking News</h1><p>|cFF33FF00NEW!|r |cFFFF0000World Boss|r Spawning soon!</p><p>|cFF33FF00NEW!|r |cFF3399FFEpic Items|r added to the shop:</p><p>- |cFFFF9933Shadowmourne|r</p><p>- |cFF3399FFInvincible|r</p><br/><h1>Events</h1><p>|cFFFFFF00Double XP Weekend|r Starting Today!</p><br/><h1>Server Info</h1><p>|cFFFFFF00Important:|r Server maintenance on Friday</p><p>|cFF00FF00Join our Discord:|r discord.gg/yourserver</p></body></html>
