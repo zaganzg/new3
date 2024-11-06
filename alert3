@@ -1,0 +1,26 @@
+SERVERALERT:
+<html><body>
+    <h1>|TInterface/Icons/achievement_boss_ragnaros:32:32:0:-3|t |cFFFFD700Server Update|r</h1>
+    
+    <p><strong>🔥 New Challenge: Face Deathwing!</strong> <br>
+    Join forces and take down Deathwing for a chance to win exclusive rewards!</p>
+    
+    <h2>|TInterface/Icons/inv_misc_bag_08:16:16|t Featured Loot</h2>
+    <p>Legendary and rare items await:</p>
+    <ul>
+        <li>Shadowmourne |TInterface/Icons/inv_axe_113:24:24|t</li>
+        <li>Invincible’s Reins |TInterface/Icons/Ability_Mount_Drake_Blue:24:24|t</li>
+    </ul>
+    
+    <h2>|TInterface/Calendar/UI-Calendar-Event:16:16|t Event Highlights</h2>
+    <ul>
+        <li>Double XP Weekend - Don’t miss boosted XP rates this weekend!</li>
+        <li>Honor Bonus Event - Extra Honor points in PvP zones!</li>
+    </ul>
+    
+    <h2>|TInterface/Icons/Trade_Engineering:16:16|t Maintenance Notice</h2>
+    <p>Upcoming Maintenance: Friday, 2 AM - Temporary downtime expected.</p>
+    
+    <h2>|TInterface/Icons/Achievement_Leader_King_Varian_Wrynn:16:16|t Stay Connected</h2>
+    <p>Join our community on <strong>Discord</strong>: discord.gg/yourserver</p>
+</body></html>
