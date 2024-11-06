@@ -1,0 +1,20 @@
+SERVERALERT:
+<html><body>
+    <h1>|TInterface/Icons/achievement_boss_ragnaros:32:32:0:-3|t |cFFFFD700Breaking News|r</h1>
+    
+    <p>|TInterface/Icons/Spell_Nature_StarFall:16:16|t |cFF33FF00New World Boss!|r - |cFFFF4500Deathwing|r is attacking |TInterface/Icons/Achievement_Boss_DeathwingRaid:24:24|t</p>
+    
+    <p>|TInterface/Icons/inv_misc_bag_08:16:16|t |cFF33FF00New Items Available:|r</p>
+    <ul>
+        <li>|cFFFF9933Shadowmourne|r |TInterface/Icons/inv_axe_113:24:24|t</li>
+        <li>|cFF3399FFInvincible's Reins|r |TInterface/Icons/Ability_Mount_Drake_Blue:24:24|t</li>
+    </ul>
+    
+    <h2>|TInterface/Calendar/UI-Calendar-Event:16:16|t |cFFFFD700Current Events|r</h2>
+    <p>|cFFFFFF00Double XP Weekend|r and Bonus Honor Weekend</p>
+    
+    <h2>|TInterface/Icons/Achievement_Boss_Nefarian:16:16|t |cFFFFD700Server Info|r</h2>
+    <p>|cFFFFFF00Server Maintenance:|r Friday |TInterface/Icons/Trade_Engineering:16:16|t</p>
+    <p>|cFF00FF00Join our Discord:|r discord.gg/yourserver |TInterface/Icons/Achievement_Leader_King_Varian_Wrynn:16:16|t</p>
+</body></html>
+
