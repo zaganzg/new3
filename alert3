@@ -1,0 +1,19 @@
+SERVERALERT:
+<html><body>
+    <h1>|TInterface/Icons/achievement_boss_ragnaros:32:32:0:-3|t |cFFFFD700News|r</h1>
+    
+    <p>|TInterface/Icons/Achievement_Boss_DeathwingRaid:24:24|t <strong>World Boss:</strong> |cFFFF4500Deathwing is attacking!|r</p>
+
+    <p>|TInterface/Icons/inv_misc_bag_08:16:16|t <strong>New Items:</strong></p>
+    <ul>
+        <li>|cFFFF9933Shadowmourne|r |TInterface/Icons/inv_axe_113:24:24|t</li>
+        <li>|cFF3399FFInvincible's Reins|r |TInterface/Icons/Ability_Mount_Drake_Blue:24:24|t</li>
+    </ul>
+    
+    <h2>|TInterface/Calendar/UI-Calendar-Event:16:16|t |cFFFFD700Events|r</h2>
+    <p>Double XP Weekend - Bonus Honor</p>
+    
+    <h2>|TInterface/Icons/Achievement_Boss_Nefarian:16:16|t |cFFFFD700Info|r</h2>
+    <p>Maintenance on Friday |TInterface/Icons/Trade_Engineering:16:16|t</p>
+    <p>Discord: discord.gg/yourserver</p>
+</body></html>
