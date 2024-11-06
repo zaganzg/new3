@@ -1,37 +1,29 @@
 SERVERALERT:
 |cFFFFD700SERVER UPDATE|r
 
------------------------------------------------------
 |TInterface/Icons/achievement_boss_ragnaros:32:32:0:-3|t
                       |cFF33FF00New Event:|r |cFFFF4500Deathwing Invasion!|r
------------------------------------------------------
+----------------------------------------------
 Get ready for an epic battle! Deathwing is attacking, and you can earn exclusive rewards by taking him down.
 
------------------------------------------------------
 |TInterface/Icons/inv_misc_bag_08:16:16|t
                       |cFF33FF00Featured Rewards|r
------------------------------------------------------
+----------------------------------------------
 - |cFFFF9933Shadowmourne|r - Legendary Axe
 - |cFF3399FFInvincible's Reins|r - Rare Mount
 
------------------------------------------------------
 |TInterface/Icons/Calendar:16:16|t
                       |cFFFFD700Upcoming Events|r
------------------------------------------------------
+----------------------------------------------
 - |cFFFFFF00Double XP Weekend|r: Boost your XP this weekend!
 - |cFFFF0000Honor Bonus Weekend|r: Extra Honor in PvP zones!
 
------------------------------------------------------
 |TInterface/Icons/Trade_Engineering:16:16|t
                       |cFF00FF00Server Maintenance|r
------------------------------------------------------
+----------------------------------------------
 Scheduled maintenance on Friday at 2 AM. Expect brief downtime.
 
------------------------------------------------------
 |TInterface/Icons/Achievement_Leader_King_Varian_Wrynn:16:16|t
                       |cFF00FF00Stay Connected|r
------------------------------------------------------
+----------------------------------------------
 Join our community on Discord: |cFF00FFFFdiscord.gg/yourserver|r
------------------------------------------------------
-
-
